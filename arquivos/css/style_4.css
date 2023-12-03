@@ -1,0 +1,25 @@
+body {
+    background-color:#C9C6C5;
+    display: flex;
+    flex-direction: column;
+}
+
+.quadrado {
+    height: 90px;
+    width: 90px;
+    background-color: black;
+}
+.esquedo {
+    float: inline-start;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.direito {
+    float: inline-end;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+    
+
+

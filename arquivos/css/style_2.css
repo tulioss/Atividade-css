@@ -1,0 +1,39 @@
+body {
+    background-color: #C9C6C5;
+}
+
+.quadrado_1 {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.quadrado_2 {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.quadrado_3 {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.quadrado_4 {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
